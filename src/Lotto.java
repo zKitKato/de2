@@ -3,6 +3,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * @author zKitKato_
+ *
+ */
 public class Lotto {
     public static void main(String[] args) throws IOException {
         // vars
@@ -37,52 +41,73 @@ public class Lotto {
         System.out.println("\nSie haben " + rightNums + " Richtige!!!");
         System.out.println("\n****************************************************");
     }
+
+    /**
+     * Input of six numbers by the user.
+     * Check that no input is double or greater than 49 and lower than 1
+     *
+     * @param zahlen_Eingabe
+     * @throws IOException
+     */
     public static void getippt(int[] zahlen_Eingabe) throws IOException {
         // input reader
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         // var
-        boolean zahlSchonVorhanden = false;
+        boolean zahlSchonVorhanden;
+        int eingabe;
 
-        // input of the six numbers
         for (int i = 0; i < zahlen_Eingabe.length; i++) {
-            System.out.print((i + 1) + ". Zahl: ");
-            zahlen_Eingabe[i] = Integer.parseInt(br.readLine());
-            // checking if number already exist
-            for(int k = 0; k < zahlen_Eingabe.length; k++) {
-                for (int j = 0; j < zahlen_Eingabe.length; j++) {
-                    /*
-                    if number on pos k is equal to number on pos j
-                    and k is not the same as j
-                    and number on pos j is not 0
-                    */
-                    if(zahlen_Eingabe[k] == zahlen_Eingabe[j] && k != j && zahlen_Eingabe[j] != 0) {
-                        // setting zahlSchonVorhanden to true that it can get replaced
+            do {
+                System.out.print((i + 1) + ". Zahl: ");
+                eingabe = Integer.parseInt(br.readLine());
+                zahlSchonVorhanden = false;
+                for (int j = 0; j < i; j++) {
+                    if (eingabe == zahlen_Eingabe[j]) {
                         zahlSchonVorhanden = true;
+                        break;
                     }
                 }
-            }
-            // if the input is over 49 and under 0 or already existing its invalid
-            if(zahlen_Eingabe[i] > 49 && zahlen_Eingabe[i] <= 0 || zahlSchonVorhanden) {
-                System.out.println("Invalid");
-                i--;
-                zahlSchonVorhanden = false;
-            }
+                if (eingabe <= 0 || eingabe > 49 || zahlSchonVorhanden) {
+                    System.out.println("Ungültige Zahl. Bitte erneut eingeben.");
+                }
+            } while (zahlSchonVorhanden || eingabe <= 0 || eingabe > 49);
+            zahlen_Eingabe[i] = eingabe;
         }
     }
+
+    /**
+     * Generates six numbers in range of 1 to 49
+     *
+     * @param lotto_Zahlen
+     * @return the generated numbers
+     */
     public static int[] zieheLottozahlen(int[] lotto_Zahlen) {
+        boolean genNumNotExist;
+        int zufall;
         for (int j = 0; j < lotto_Zahlen.length; j++) {
-            // generating random number in range of 49 and storing them on pos j in lotto_Zahlen array
-            lotto_Zahlen[j] = (int) (Math.random() * 49) + 1;
-            // checking if number generated is already generated before
-            for(int i = 0; i < lotto_Zahlen.length; i++) {
-                if (lotto_Zahlen[j] == lotto_Zahlen[i]) {
-                    lotto_Zahlen[j] = (int) (Math.random() * 49) + 1;
+            do {
+                zufall = (int) (Math.random() * 49) + 1;
+                genNumNotExist = true;
+                for (int i = 0; i < j; i++) {
+                    if (zufall == lotto_Zahlen[i]) {
+                        genNumNotExist = false;
+                        break;
+                    }
                 }
-            }
+            } while (!genNumNotExist);
+            lotto_Zahlen[j] = zufall;
         }
         return lotto_Zahlen;
     }
+
+    /**
+     * Comparing the two arrays gezogeneNummern and tipp.
+     *
+     * @param gezogeneNummern
+     * @param tipp
+     * @return The amount of numbers which are the same
+     */
     public static int ermittleRichtige(int[] gezogeneNummern, int[] tipp) {
         // var
         int correct_nums = 0;
@@ -97,7 +122,12 @@ public class Lotto {
         }
         return correct_nums;
     }
-    // sorting method
+
+    /**
+     * SelcetionSort
+     *
+     * @param elements
+     */
     public static void sortieren(int[] elements) {
         // https://www.happycoders.eu/de/algorithmen/selection-sort/
         for (int i = 0; i < elements.length - 1; i++) {
@@ -118,3 +148,5 @@ public class Lotto {
         }
     }
 }
+
+

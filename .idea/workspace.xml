@@ -1,25 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="203665ae-ba4e-4cea-a19a-44af67c11ffd" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/de.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/gui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/src/Login/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/src/MainFrame/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project_Test/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project_Test/Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/Aufgabe13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Login/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Login/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Login/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Lotto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/MainFrame/MainFrame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/MainFrame/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/MainFrame/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/Logic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery-ui.overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/tls2/Aufgabe13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/tls2/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/tls2/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +88,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="105c5c36-21bc-4713-86ae-ffaae3cd7650" />
+        <option name="url" value="https://github.com/zKitKato/de2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +123,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;Project Files&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -68,6 +133,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -95,8 +161,19 @@
       <workItem from="1677573260486" duration="540000" />
       <workItem from="1677759102470" duration="16000" />
       <workItem from="1677759852851" duration="170000" />
-      <workItem from="1677781958238" duration="1932000" />
+      <workItem from="1677781958238" duration="2322000" />
+      <workItem from="1678127903273" duration="2106000" />
+      <workItem from="1678194205827" duration="7000000" />
+      <workItem from="1678203180182" duration="3616000" />
     </task>
+    <task id="LOCAL-00001" summary="d">
+      <created>1677784207177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677784207177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +194,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="d" />
     <option name="LAST_COMMIT_MESSAGE" value="d" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/de$Lotto.ic" NAME="Lotto Coverage Results" MODIFIED="1677783154943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
