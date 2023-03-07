@@ -8,70 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="203665ae-ba4e-4cea-a19a-44af67c11ffd" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Login/Login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Login/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Login/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Lotto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/MainFrame/MainFrame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/MainFrame/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/MainFrame/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/Game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/Logic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/Project_Test/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/allclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index-files/index-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery-ui.overrides.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/external/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip/dist/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/serialized-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/tls2/Aufgabe13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/tls2/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/tls2/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tls2/JavaDoc/type-search-index.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/Gebrauchtwagen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/fahr/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/fahr/Fahrzeug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/fahr/Motorrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/personenVerwaltung/Firma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/start/personenVerwaltung/Personen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,30 +59,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;Project Files&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "Project Files",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -164,7 +111,8 @@
       <workItem from="1677781958238" duration="2322000" />
       <workItem from="1678127903273" duration="2106000" />
       <workItem from="1678194205827" duration="7000000" />
-      <workItem from="1678203180182" duration="3616000" />
+      <workItem from="1678203180182" duration="3990000" />
+      <workItem from="1678215389090" duration="7276000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1677784207177</created>
@@ -173,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677784207177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="d">
+      <created>1678207006654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678207006654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
